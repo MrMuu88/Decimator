@@ -1,0 +1,3 @@
+C:/Users/locadm/Documents/Projects/decimator/BambuStudio/Decimator/build/CMakeFiles/decimator.dir
+C:/Users/locadm/Documents/Projects/decimator/BambuStudio/Decimator/build/CMakeFiles/edit_cache.dir
+C:/Users/locadm/Documents/Projects/decimator/BambuStudio/Decimator/build/CMakeFiles/rebuild_cache.dir

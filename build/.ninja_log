@@ -1,0 +1,13 @@
+# ninja log v7
+8	3412	8040203787385211	CMakeFiles/decimator.dir/src/main.cpp.obj	553e0c50df10d304
+13	3866	8040203787446687	CMakeFiles/decimator.dir/src/stl_io.cpp.obj	af42c43c304a4689
+25	4075	8040205582894274	CMakeFiles/decimator.dir/src/QuadricEdgeCollapse.cpp.obj	f83f739dd263dfc0
+4097	4582	8040205623479559	decimator.exe	e8bbe02a31ce1ba8
+101	7802	8040212779826806	CMakeFiles/decimator.dir/src/main.cpp.obj	b5889f91d3ee1089
+143	7960	8040212780263008	CMakeFiles/decimator.dir/src/stl_io.cpp.obj	89c38901b741fb9b
+149	8933	8040212780315818	CMakeFiles/decimator.dir/src/QuadricEdgeCollapse.cpp.obj	dc2673a82f0e012f
+8933	10857	8040212868163542	decimator.exe	e8bbe02a31ce1ba8
+24	1655	8040227294470706	CMakeFiles/decimator.dir/src/main.cpp.obj	b5889f91d3ee1089
+1657	2026	8040227310767789	decimator.exe	e8bbe02a31ce1ba8
+11	1546	8040231163921903	CMakeFiles/decimator.dir/src/main.cpp.obj	b5889f91d3ee1089
+1547	1774	8040231179378129	decimator.exe	e8bbe02a31ce1ba8
