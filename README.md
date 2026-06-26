@@ -13,8 +13,12 @@ if you like this project [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20
 ```
 decimator.exe <input.stl> [quality option] [output option]
 ```
+for decimating models in bulk, copy the decimator.exe into a folder with STLs, or add it to the PATH environment variable
+```
+PS> folder_with_STLs\ get-childitem |%{.\decimator.exe $_ [quality option] [output option]}
+```
 
-### Quality options (choose one; default is `--ExtraHigh`)
+### Quality options (choose one; if none provided, default is `--ExtraHigh`)
 
 | Flag | Max-error | Effect |
 |---|---|---|
@@ -26,7 +30,7 @@ decimator.exe <input.stl> [quality option] [output option]
 | `--ratio <0–100>` | — | Keep exactly N% of triangles |
 | `--max-error <float>` | — | Set quadric error threshold directly |
 
-### Output options (choose one; default appends `_decimated`)
+### Output options (choose one; if non provided, default suffixes output file  with `_decimated`)
 
 | Flag | Effect |
 |---|---|
